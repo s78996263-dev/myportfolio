@@ -21,7 +21,7 @@ document.querySelector('#app')!.innerHTML = `
     GitHub
   </a>
 
-  <a href="/Swathigv_resume.pdf" target="_blank">
+  <a href="/Swathigvresume.pdf" target="_blank">
     View Resume
   </a>
 
